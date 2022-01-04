@@ -52,9 +52,8 @@ Give credit here.
 
 
 ## Contributors
-<a href="https://github.com/#/">Aparna Mehrotra</a>
-<a href="https://github.com/pradeepksharma22/">Pradeep Kumar Sharma</a>
-- feel free to contact us!
+- <a href="https://github.com/#/">Aparna Mehrotra</a>
+- <a href="https://github.com/pradeepksharma22/">Pradeep Kumar Sharma</a>
 
 
 <!-- Optional -->
