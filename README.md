@@ -3,11 +3,11 @@
  Such that these loans can be identified at th early stages and minimised thereby cutting down the amount of credit loss. 
 Identification of such applicants using EDA is the aim of this case study.   
 
-Perform an EDA analysis(univariate, segmented univariate, bivariate and multivariate) to understand the driving factors
+>Perform an EDA analysis(univariate, segmented univariate, bivariate and multivariate) to understand the driving factors
 behind loan default, i.e.the variables which are strong indicators of default.  
 The company can utilise this case study for thier risk assessment.
 
-We have developed this case study as part of the EDA Module for the Executive PG Programme in Machine Learning & AI - IIIT,Bangalore.
+>We have developed this case study as part of the EDA Module for the Executive PG Programme in Machine Learning & AI - IIIT,Bangalore.
 
 
 
@@ -37,9 +37,10 @@ We have developed this case study as part of the EDA Module for the Executive PG
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- pandas library - version 1.0
+- numpy library - version 2.0
+- matplotlib library - version 3.0
+- seaborn library - version 3.0
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
@@ -50,8 +51,9 @@ Give credit here.
 - This project was based on [this tutorial](https://www.example.com).
 
 
-## Contact
-Created by Pradeep Kumar Sharma[@pradeepksharma22] & Aparna Mehrotra[@]
+## Contributors
+<a href="https://github.com/#/">Aparna Mehrotra</a>
+<a href="https://github.com/pradeepksharma22/">Pradeep Kumar Sharma</a>
 - feel free to contact us!
 
 
