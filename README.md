@@ -1,13 +1,13 @@
 # Lending Club Case Study
 > The main objective of this case study is to be able to identify risky loan applicants for the lending club.
- Such that these loans can be identified at th early stages and minimised thereby cutting down the amount of credit loss. 
+ Such that these loans can be identified at the early stages and minimized, thereby cutting down the amount of credit loss. 
 Identification of such applicants using EDA is the aim of this case study.   
 
->Perform an EDA analysis(univariate, segmented univariate, bivariate and multivariate) to understand the driving factors
+> Idea is to perform an EDA analysis(univariate, segmented univariate, bivariate, and multivariate) to understand the driving factors
 behind loan default, i.e.the variables which are strong indicators of default.  
-The company can utilise this case study for thier risk assessment.
+The company can utilize this case study for its risk assessment.
 
->We have developed this case study as part of the EDA Module for the Executive PG Programme in Machine Learning & AI - IIIT,Bangalore.
+> We have developed this case study as part of the EDA Module for the Executive PG Programme in Machine Learning & AI - IIIT,Bangalore.
 
 
 
