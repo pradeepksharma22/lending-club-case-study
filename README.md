@@ -1,6 +1,7 @@
 # Lending Club Case Study
-> The main objective of this case study is to be able to identify risky loan applicants for the lending club. Such that these loans can be identified at the early stages and minimized, thereby cutting down the amount of credit loss. Idea is to perform an EDA analysis to understand the driving factors which are strong indicators of loan defaults. The company can utilize this case study for its risk assessment.
-
+> A consumer finance company which specializes in lending various types of loans to urban customers, has to make a decision for loan approval based on the applicant’s profile. 
+> The company wants to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default.
+> To identify the risky loan applicants, thereby cutting down the amount of credit loss considerably
 > We have developed this case study as part of the EDA Module for the Executive PG Programme in Machine Learning & AI - IIIT,Bangalore.
 
 
@@ -14,18 +15,22 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- A consumer finance company which specializes in lending various types of loans to urban customers, has to make a decision for loan approval based on the applicant’s profile.
+- The company wants to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default.
+- To identify the risky loan applicants, thereby cutting down the amount of credit loss considerably
+- We have used loan.csv as dataframe?
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Loans given at a higher interest rates are more likely to default
+- Lower Grades(F/G) Loans are more likely to be Charged-Off as compared to higher grades (A/B)
+- Borrowers from states of California, Florida and New York are more likely to default. More background check is needed before loan approval.
+- People with higher Bankruptcy Records have higher chance of defaulting
+- Debt Consolidation and Small Business purpose loans must be scrutinized more as these can lead to higher financial loss.
+- Borrowers having their own house or higher income are least likely to default
+- Those having higher DTI ratio are also more likely to default.
+
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
@@ -39,10 +44,7 @@
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- This project was based on EDA Module for the Executive PG Programme in Machine Learning & AI - IIIT,Bangalore.
 
 
 ## Contributors
