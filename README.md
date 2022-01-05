@@ -20,7 +20,7 @@
 - A consumer finance company which specializes in lending various types of loans to urban customers, has to make a decision for loan approval based on the applicant’s profile.
 - The company wants to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default.
 - To identify the risky loan applicants, thereby cutting down the amount of credit loss considerably
-- We have used loan.csv as dataframe?
+- We have used loan.csv as dataframe
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
