@@ -1,7 +1,9 @@
 # Lending Club Case Study
 > A consumer finance company which specializes in lending various types of loans to urban customers, has to make a decision for loan approval based on the applicant’s profile. 
+
 > The company wants to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default.
 > To identify the risky loan applicants, thereby cutting down the amount of credit loss considerably
+
 > We have developed this case study as part of the EDA Module for the Executive PG Programme in Machine Learning & AI - IIIT,Bangalore.
 
 
@@ -26,8 +28,8 @@
 - Loans given at a higher interest rates are more likely to default
 - Lower Grades(F/G) Loans are more likely to be Charged-Off as compared to higher grades (A/B)
 - Borrowers from states of California, Florida and New York are more likely to default. More background check is needed before loan approval.
-- People with higher Bankruptcy Records have higher chance of defaulting
-- Debt Consolidation and Small Business purpose loans must be scrutinized more as these can lead to higher financial loss.
+- People with higher Bankruptcy Records have higher chance of defaulting
+- Debt Consolidation and Small Business purpose loans must be scrutinized more as these can lead to higher financial loss.
 - Borrowers having their own house or higher income are least likely to default
 - Those having higher DTI ratio are also more likely to default.
 
